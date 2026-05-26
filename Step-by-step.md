@@ -2,7 +2,7 @@ This is a quick guide to be able to set up an iTerm profile.
 
 In the past (and maybe recommended) I have followed Eric Anderson's tutorial https://www.youtube.com/watch?v=vL6swuC6IMU.
 
-However, this approach did not work for me this time around, so I tried something new
+However, this approach did not work for me this time around, so I tried something new. 
 There are a couple of things happening here, and some of them are in your LOCAL Mac and some others on your remote.
 
 Step 1: Configure Your Local SSH Config File (Local Mac Setup)
