@@ -6,7 +6,7 @@ Follow the instructions in Account & Access. After submiting the request, your s
 
 Step 2: Get access to the VPN
 
-I was informed that you DON'T need to be connected to the VPN to be able to connect to Athene while off-campus. This is grest!
+I was informed that you DON'T need to be connected to the VPN to be able to connect to Athene while off-campus. This is great!
 
 
 
