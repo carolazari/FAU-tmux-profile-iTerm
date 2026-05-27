@@ -7,6 +7,9 @@ Follow the instructions in Account & Access. After submiting the request, your s
 Step 2: Get access to the VPN
 
 I was informed that you DON'T need to be connected to the VPN to be able to connect to Athene while off-campus. This is great!
+However, if for any other reason you still need VPN access, I found this step-by-step very useful https://www.fau.edu/oit/security/pdf/vpn-instructions-mac-forticlient.pdf
+
+I used the Mac tutorial one, but you have a Windows one as well.
 
 
 
